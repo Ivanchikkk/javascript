@@ -10,6 +10,7 @@
 
 This guide is available in other languages too. See [Translation](#translation)
 New Joke
+Hi nice joke
 Other Style Guides
 
   - [ES5 (Deprecated)](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)
